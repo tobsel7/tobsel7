@@ -1,5 +1,5 @@
 - 👋 Hi, I am Tobias Haider, @tobsel7.
-- 👀 I am interested in Cryptocurrencies, Data Science and Software Testing/Development.
+- 👀 I am interested in blockchain, Data Science and Software Testing/Development.
 - 🌱 I am currently learning to manage database systems and building applications with different technologies.
-- 💞️ I am looking to collaborate on XRPL projects written using Java or Python.
+- 💞️ I am looking to collaborate on XRPL projects written in Java or Python.
 - 📫 How to reach me: tobias.haider99@hotmail.com
