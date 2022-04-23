@@ -1,5 +1,4 @@
 - 👋 Hi, I am Tobias Haider, @tobsel7.
 - 👀 I am interested in Software Testing/Development, Data Science and Internet Computing.
-- 🌱 I am currently learning to manage database systems and building applications with different technologies.
-- 💞️ I am looking to collaborate on XRPL projects written in Java, Python or JavaScript.
+- 🌱 I am currently learning to manage database systems and exploring various technologies related to data-oriented software.
 - 📫 How to reach me: tobias.haider99@hotmail.com
