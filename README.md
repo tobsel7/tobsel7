@@ -1,4 +1,4 @@
 - 👋 Hi, I am Tobias Haider, @tobsel7.
-- 👀 I am interested in Software Testing/Development, Data Science and Internet Computing.
-- 🌱 I am currently learning to manage database systems and exploring various technologies related to data-oriented software.
+- 👀 I am interested in data science, data-centered software and blockchain.
+- 🌱 Currently, I am learning Oracle databases and PL/SQL.
 - 📫 How to reach me: tobias.haider99@hotmail.com
