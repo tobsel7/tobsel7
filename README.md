@@ -1,4 +1,4 @@
 - 👋 Hi, I am Tobias Haider, @tobsel7.
 - 👀 I am interested in data science, data-centered software and blockchain.
-- 🌱 Currently, I am learning Oracle databases and PL/SQL.
+- 🌱 Currently, I am expanding my expertise in enterprise Spring Boot applications and Kubernetes
 - 📫 How to reach me: tobias.haider99@hotmail.com
