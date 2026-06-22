@@ -1,4 +1,4 @@
 - 👋 Hi, I am Tobias Haider, @tobsel7.
-- 👀 I am interested in data science, data-centered software and blockchain.
-- 🌱 Currently, I am expanding my expertise in enterprise Spring Boot applications and Kubernetes
+- 👀 I am interested in data-oriented systems, medical data, and blockchain.
+- 🌱 Currently, I am pivoting from IT consulting to medical research.
 - 📫 How to reach me: tobias.haider99@hotmail.com
