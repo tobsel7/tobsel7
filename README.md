@@ -1,4 +1,4 @@
 - 👋 Hi, I am Tobias Haider, @tobsel7.
 - 👀 I am interested in data-oriented systems, mental health, and blockchain.
-- 🌱 Currently, I am pivoting from IT consulting to medical research.
+- 🌱 Currently, I am pivoting software to data engineering.
 - 📫 [Connect with me](https://www.linkedin.com/in/tobias-haider-506729223/)
